@@ -15,6 +15,6 @@ export const users = [
     role: "UI Designer",
     avatar: "https://i.pravatar.cc/150?img=5",
     skills: ["Figma", "UX", "Illustrator"],
-    isOnline: false,
+    isOnline: true,
   },
 ];

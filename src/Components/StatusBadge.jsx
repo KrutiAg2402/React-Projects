@@ -1,10 +1,11 @@
 // reusable component to show user's status
 // props control UI
-export default function statusBadge({isOnline})
+export default function StatusBadge({isOnline})
 {
+    //console.log("StatusBadge Rendered" + {isOnline});
     return (
         <span style = {{
-            color : isOnline ?"green":"red",
+            color : isOnline ? "green" : "red" ,
             fontWeight:"bold",
         }}
         >
