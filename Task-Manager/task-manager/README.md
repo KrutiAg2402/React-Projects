@@ -1,16 +1,32 @@
-# React + Vite
+📝 Task Manager (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, category-based task manager built with React + Vite, focused on mastering state, props, and component-driven UI design.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add tasks with categories (Work, Personal, Study)
 
-## React Compiler
+Filter tasks by category
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Toggle task completion
 
-## Expanding the ESLint configuration
+Clean, modern UI using pure CSS (no UI libraries)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧠 Key Concepts Demonstrated
+
+Lifting state to a common parent
+
+One-way data flow using props
+
+Reusable, composable components
+
+🚀 Getting Started
+npm install
+npm run dev
+
+📌 Purpose
+
+Built as a portfolio project to demonstrate strong fundamentals in React component design, state management, and UI presentation.
+<img width="545" height="409" alt="Screenshot 2026-01-21 at 3 57 38 PM" src="https://github.com/user-attachments/assets/0e6ce960-ce3f-4bd3-84f3-555e58eef9c7" />
+<img width="850" height="618" alt="Screenshot 2026-01-21 at 3 57 22 PM" src="https://github.com/user-attachments/assets/cf8e00cc-f8bc-491d-8b49-c60c061b8995" />
+
